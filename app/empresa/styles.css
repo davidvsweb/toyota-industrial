@@ -1,0 +1,122 @@
+.empresa-banner {
+    background-image: url('../src/img/empresa-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 503px;
+}
+
+.empresa-banner-text {
+    font-size: 16px;
+    font-family: gothic-regular;
+    line-height: 47px;
+    color: #Fff;
+    letter-spacing: 12px;
+}
+
+.empresa-banner-title {
+    font-size: 45px;
+    font-family: gothic-regular;
+    color: #Fff;
+    font-weight: bold;
+}
+
+.empresa-banner-description {
+    font-size: 18px;
+    font-family: gothic-regular;
+    color: #Fff;
+}
+
+.thirty-title {
+    color: #292B32;
+    font-weight: bold;
+    font-size: 34px;
+    font-family: gothic-regular;
+    line-height: 40px;
+}
+
+.thirty-description {
+    font-size: 16px;
+    font-family: gothic-regular;
+    line-height: 28px;
+    color: #292B32;
+}
+
+.valores-title {
+    color: #FFF;
+    font-size: 20px;
+    font-family: gothic-regular;
+    font-weight: bold;
+}
+
+.valores-description {
+    color: #FFF;
+    font-size: 16px;
+    font-family: gothic-regular;
+    line-height: 28px;
+}
+
+.valores-section {
+    margin-top: -16em;
+    padding-top: 22em;
+}
+
+.medio-ambiente-section {
+    background-image: url('../src/img/medio-ambiente-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 757px;
+}
+
+.medio-ambiente-text {
+    font-size: 20px;
+    font-family: gothic-regular;
+    font-weight: bold;
+    color: #FFF;
+    line-height: 30px;
+}
+
+.medio-ambiente-title {
+    font-size: 100px;
+    font-family: gothic-bold;
+    color: #FFF;
+}
+
+.medio-ambiente-description {
+    font-size: 16px;
+    font-family: gothic-regular;
+    color: #FFF;
+    line-height: 28px;
+}
+
+.medio-ambiente-card {
+    background-color: rgba(41, 43, 50, .6);
+    border-radius: 16px;
+    width: 267px;
+    height: 316px;
+    border: 1px solid #A1AECE;
+    padding: 2em;
+}
+
+.medio-ambiente-card-description {
+    font-size: 14px;
+    font-family: gothic-regular;
+    color: #FFF;
+    line-height: 28px;
+    margin-top: 10px;
+}
+
+.custom-tab {
+    text-transform: capitalize;
+    font-size: 20px;
+    color: #292B32;
+    font-family: gothic-bold;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #E50020;
+}
+
+.css-1aquho2-MuiTabs-indicator {
+    height: 8px;
+    background-color: #E50020;
+}
